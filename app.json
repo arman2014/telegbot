@@ -1,0 +1,7 @@
+{
+  "name":"telegbot",
+  "description":"a bot",
+  "scripts":{},
+  "env":{},
+  "addons":[]
+}
